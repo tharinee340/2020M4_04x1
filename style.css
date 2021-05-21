@@ -59,3 +59,12 @@ body {
         background-color: deepskyblue;
     }
 }
+@media  screen and (max-width: 991px) {
+    .content {
+        width: 50%;
+    }
+    .sideboard {
+        width: 50%;
+        
+    }
+}
