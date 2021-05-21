@@ -55,4 +55,7 @@ body {
         background-color: gold;
         width: 100%;
     }
+    .banner {
+        background-color: deepskyblue;
+    }
 }
